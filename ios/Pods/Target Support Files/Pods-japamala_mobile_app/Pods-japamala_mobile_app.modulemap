@@ -1,0 +1,6 @@
+module Pods_japamala_mobile_app {
+  umbrella header "Pods-japamala_mobile_app-umbrella.h"
+
+  export *
+  module * { export * }
+}
